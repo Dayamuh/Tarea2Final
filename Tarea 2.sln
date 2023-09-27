@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Camisas", "Camisas.csproj", "{7BC4EB55-3731-4BEA-A2F9-B5B28DFA122A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vendedor", "..\Vendedor\Vendedor.csproj", "{B77F432D-64CC-4F0C-8AA1-07065488E6E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estudiante", "..\Estudiante\Estudiante.csproj", "{CD6DD74F-22F0-406C-A446-4C9183A1F882}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BC4EB55-3731-4BEA-A2F9-B5B28DFA122A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BC4EB55-3731-4BEA-A2F9-B5B28DFA122A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BC4EB55-3731-4BEA-A2F9-B5B28DFA122A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BC4EB55-3731-4BEA-A2F9-B5B28DFA122A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B77F432D-64CC-4F0C-8AA1-07065488E6E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B77F432D-64CC-4F0C-8AA1-07065488E6E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B77F432D-64CC-4F0C-8AA1-07065488E6E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B77F432D-64CC-4F0C-8AA1-07065488E6E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD6DD74F-22F0-406C-A446-4C9183A1F882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD6DD74F-22F0-406C-A446-4C9183A1F882}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD6DD74F-22F0-406C-A446-4C9183A1F882}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD6DD74F-22F0-406C-A446-4C9183A1F882}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E59718D5-7795-41AD-A91C-71EF9460D708}
+	EndGlobalSection
+EndGlobal
